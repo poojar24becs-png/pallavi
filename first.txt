@@ -4,5 +4,5 @@ record is completed
 not understanding
 nothing
 learning experiment 6
-rebase
-push
+rebase and push
+
