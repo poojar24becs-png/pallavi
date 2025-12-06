@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 every line
 first line
 its very simple
@@ -8,3 +9,11 @@ this is 6th line
 its forever
 
 
+=======
+every line
+first line
+its very simple
+heavy kobbu
+kannada
+
+>>>>>>> bdbe238 (first commit)
