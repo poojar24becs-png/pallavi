@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nww one file
 old one
 record is completed
@@ -7,3 +8,17 @@ learning experiment
 brain
 smart phone
 git lab
+=======
+nww one file
+old one
+record is completed
+not understanding
+nothing
+learning experiment 6
+brain
+smart phone
+no one
+
+
+
+>>>>>>> 200b0d6 (Update first.txt)
